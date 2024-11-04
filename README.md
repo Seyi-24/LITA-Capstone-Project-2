@@ -22,7 +22,7 @@ This project analyzes customer data for a subscription service to identify segme
 - 3 subscription types: Basic, Premium, Standard![Customer subscription Dashboard - Power BI]
 
 
-*Key Findings*
+Key Findings
 
 Revenue Analysis
 
