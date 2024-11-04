@@ -10,7 +10,7 @@ Customer Segmentation for a Subscription Service
   - Power BI Analysis [Power BI Analysis](#power-bi-analysis)
 - Visualizations [Visualizations](#visualizations)
 - Key Insights and Recommendations [Key Insights and Recommendations](#key-insights-and-recommendations) 
-- Conclusion 
+- Conclusion [Conclusion](#conclusion)
 
 - ### Project Overview
   This project analyzes customer data to identify segments, trends, and insights for a subscription-based service. The goal is to understand customer behaviour, track subscription types, and uncover patterns in cancellations and renewals.
@@ -196,8 +196,8 @@ FROM `lita captstone customerdata`;
 3. *Customer retention strategies*: Develop programs to maintain customer loyalty and reduce cancellations.
 4. *Premium and Standard subscription enhancement*: Consider enhancing features or pricing to increase adoption rates.
 
-
-
+### Conclusion
+This project provides valuable insights into customer behaviour and subscription patterns, enabling data-driven decisions to improve customer retention, acquisition, and revenue growth.
 
 Files
 
