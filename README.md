@@ -178,7 +178,7 @@ FROM `lita captstone customerdata`;
 
 - Total subscription renewals (18,612) outnumber cancellations (15,175), indicating a positive customer retention rate.
 
-- Visualizations
+### Visualizations
 
 ![Customer subscription Dashboard - Power BI](https://github.com/user-attachments/assets/2b6d5941-2082-4bd8-930a-89c2f0eecd1e)
 
