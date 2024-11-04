@@ -7,17 +7,13 @@ Customer Segmentation for a Subscription Service
 - Tool Used
   - Excel Analysis [Excel Analysis](#excel-analysis)
   - MySQL Analysis [MySQL Analysis](#mysql-analysis)
-  - Power BI Analysis [Power BI Analysis](#power-bi-analysis)
+  - Power BI Analysis [Power BI Dashboard](#power-bi-dashboard)
 - Visualizations [Visualizations](#visualizations)
 - Key Insights and Recommendations [Key Insights and Recommendations](#key-insights-and-recommendations) 
--Conclusion 
+- Conclusion 
 
-
-
-
-- ###Project Overview
+- ### Project Overview
   This project analyzes customer data to identify segments, trends, and insights for a subscription-based service. The goal is to understand customer behaviour, track subscription types, and uncover patterns in cancellations and renewals.
-
 
 - Methodology
   - Data analysis using Microsoft Excel,MySQL,and Power BI.
@@ -80,6 +76,7 @@ Revenue Analysis
 | Basic | 34M | 50.01% |
 | Premium | 17M | 25.02% |
 | Standard | 17M | 24.97% |
+
 ![Excel Customer Subscription Chart](https://github.com/user-attachments/assets/47a3063f-97d5-42d7-a7f9-6cd4958b7d6f)
 
 
@@ -162,9 +159,13 @@ FROM `lita captstone customerdata`;
 
 - Power BI Dashboard
 
+- Visualizations
+
 ![Customer subscription Dashboard - Power BI](https://github.com/user-attachments/assets/2b6d5941-2082-4bd8-930a-89c2f0eecd1e)
 
-Insights
+
+### Key Insights and Recommendations
+ Insights
 *Revenue Analysis*
 
 - The total revenue stands at $68M, indicating a substantial customer base.
