@@ -154,5 +154,8 @@ Files
 
 
 - Power BI Dashboard
+![Customer Subscription Pivot](https://github.com/user-attachments/assets/4a817064-92bb-46b6-af94-fade1d13e8d9)
 
 
+![Customer subscription Dashboard - Power BI](https://github.com/user-attachments/assets/2b6d5941-2082-4bd8-930a-89c2f0eecd1e)
+![Excel Customer Subscription Chart](https://github.com/user-attachments/assets/47a3063f-97d5-42d7-a7f9-6cd4958b7d6f)
