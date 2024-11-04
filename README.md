@@ -199,11 +199,6 @@ FROM `lita captstone customerdata`;
 ### Conclusion
 This project provides valuable insights into customer behaviour and subscription patterns, enabling data-driven decisions to improve customer retention, acquisition, and revenue growth.
 
-Files
-
-- `customer_data.csv`: customer subscription data
-- `power_bi_dashboard.pbix`: Power BI dashboard
-- `sql_queries.sql`: SQL queries used for analysis
 
 
 
