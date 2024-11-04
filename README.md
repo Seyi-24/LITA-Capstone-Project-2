@@ -4,7 +4,18 @@ Customer Segmentation for a Subscription Service
 - Introduction [Introduction](#introduction)
 - Project Overview [Project Overview](#project_overview)
 - Dataset [Dataset](#dataset)
-- 
+
+- Project Overview [Project Overview](#project-overview)
+- Data Description [Data Description](#data-description)
+- Data Cleaning [Data Cleaning](#data-cleaning)
+- Tool Used:
+  - Excel Analysis [Excel Analysis](#excel-analysis)
+  - MySQL Analysis [MySQL Analysis](#mysql_analysis)
+  - Power BI Analysis [Power BI Analysis](#power_bi_analysis)
+
+- Insights and Findings 
+-Conclusion 
+
 
 
 
