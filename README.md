@@ -1,8 +1,7 @@
 # LITA-Capstone-Project-2
 Customer Segmentation for a Subscription Service
 ### Table of Content
-- Introduction [Introduction](#introduction)
-- Project Overview [Project Overview](#project_overview)
+- Project Overview [Project Overview](#project-overview)
 - Data Description [Data Description](#data-description)
 - Data Cleaning [Data Cleaning](#data-cleaning)
 - Tool Used
