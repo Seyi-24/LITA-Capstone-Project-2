@@ -7,7 +7,7 @@ Customer Segmentation for a Subscription Service
 - Tool Used
   - Excel Analysis [Excel Analysis](#excel-analysis)
   - MySQL Analysis [MySQL Analysis](#mysql-analysis)
-  - Power BI Analysis [Power BI Dashboard](#power-bi-dashboard)
+  - Power BI Analysis [Power BI Analysis](#power-bi-analysis)
 - Visualizations [Visualizations](#visualizations)
 - Key Insights and Recommendations [Key Insights and Recommendations](#key-insights-and-recommendations) 
 - Conclusion 
@@ -157,15 +157,8 @@ SUM(CASE WHEN Canceled = 1 THEN 1 ELSE 0 END) AS Canceled_Subscriptions
 FROM `lita captstone customerdata`; 
 ```
 
-- Power BI Dashboard
+### Power BI Analysis
 
-- Visualizations
-
-![Customer subscription Dashboard - Power BI](https://github.com/user-attachments/assets/2b6d5941-2082-4bd8-930a-89c2f0eecd1e)
-
-
-### Key Insights and Recommendations
- Insights
 *Revenue Analysis*
 
 - The total revenue stands at $68M, indicating a substantial customer base.
@@ -185,7 +178,12 @@ FROM `lita captstone customerdata`;
 
 - Total subscription renewals (18,612) outnumber cancellations (15,175), indicating a positive customer retention rate.
 
-*Findings*
+- Visualizations
+
+![Customer subscription Dashboard - Power BI](https://github.com/user-attachments/assets/2b6d5941-2082-4bd8-930a-89c2f0eecd1e)
+
+
+### Key Insights and Recommendations
 
 1. **Regional parity**: Revenue distribution is relatively even across regions, indicating consistent market presence.
 2. **Basic subscription dominance**: Basic subscription type generates the highest revenue, suggesting strong demand.
