@@ -71,7 +71,7 @@ Revenue Analysis
 - Total Revenue: $68M
 - Average Subscription Duration: 365.35 days
 
-*Regional Analysis*
+Regional Analysis
 
 | Region | Revenue | Percentage |
 | --- | --- | --- |
@@ -80,7 +80,7 @@ Revenue Analysis
 | West | $17M | 24.97% |
 | North | $17M | 24.9% |
 
-*Subscription Type Analysis*
+Subscription Type Analysis
 
 | Subscription Type | Revenue | Percentage |
 | --- | --- | --- |
@@ -99,23 +99,22 @@ Revenue Analysis
 
 
 Insights
-
 *Revenue Analysis*
 
 - The total revenue stands at $68M, indicating a substantial customer base.
 - The average subscription duration is 365.35 days, suggesting a relatively long-term commitment from customers.
 
-*Regional Analysis*
+Regional Analysis
 
 - The revenue distribution across regions is relatively even, with East, South, West, and North contributing 25.11%, 25.02%, 24.97%, and 24.9% respectively.
 - This suggests a consistent market presence across all regions.
 
-*Subscription Type Analysis*
+Subscription Type Analysis
 
 - The Basic subscription type generates the highest revenue ($34M, 50.01%), followed by Premium ($17M, 25.02%) and Standard ($17M, 24.97%).
 - This indicates a strong demand for the Basic subscription type.
 
-*Customer Retention*
+Customer Retention
 
 - Total subscription renewals (18,612) outnumber cancellations (15,175), indicating a positive customer retention rate.
 
