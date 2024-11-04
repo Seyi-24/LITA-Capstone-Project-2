@@ -52,7 +52,7 @@ Revenue Analysis
 
 
 
-*Insights*
+Insights
 
 *Revenue Analysis*
 
