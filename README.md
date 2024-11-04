@@ -13,10 +13,14 @@ Customer Segmentation for a Subscription Service
 This project analyzes customer data for a subscription service to identify segments and trends. The goal is to understand customer behavior, track subscription types, and identify key trends in cancellations and renewals.
 
 - ###Dataset
+![Customer Subscription Pivot](https://github.com/user-attachments/assets/bf4ba8ce-1e8f-44ea-9ffb-f260d65e2e1b)
+![Excel Customer Subscription Chart](https://github.com/user-attachments/assets/9999248c-1a4a-4e06-a390-416fdc8459f2)
+![Customer subscription Dashboard - Power BI](https://github.com/user-attachments/assets/dfa67e18-cb95-4559-a8d4-68089bc40109)
 
 - Customer subscription data (anonymous)
 - 4 regions: East, South, West, North
-- 3 subscription types: Basic, Premium, Standard
+- 3 subscription types: Basic, Premium, Standard![Customer subscription Dashboard - Power BI]
+
 
 *Key Findings*
 
