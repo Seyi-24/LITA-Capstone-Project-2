@@ -1,5 +1,7 @@
 # LITA-Capstone-Project-2
-Customer Segmentation for a Subscription Service
+
+Project Title: Customer Segmentation for a Subscription Service
+
 ### Table of Content
 - Project Overview [Project Overview](#project-overview)
 - Data Description [Data Description](#data-description)
