@@ -13,6 +13,7 @@ Project Title: Customer Segmentation for a Subscription Service
 - Visualizations [Visualizations](#visualizations)
 - Key Insights and Recommendations [Key Insights and Recommendations](#key-insights-and-recommendations) 
 - Conclusion [Conclusion](#conclusion)
+---
 
 - ### Project Overview
   This project analyzes customer data to identify segments, trends, and insights for a subscription-based service. The goal is to understand customer behaviour, track subscription types, and uncover patterns in cancellations and renewals.
@@ -20,6 +21,7 @@ Project Title: Customer Segmentation for a Subscription Service
 - Methodology
   - Data analysis using Microsoft Excel,MySQL,and Power BI.
   - Data visualizations and insights.
+---
 
  ### Data Description 
  - Data Source: LITA Capstone
@@ -39,11 +41,13 @@ Project Title: Customer Segmentation for a Subscription Service
 
 - Notes: This dataset represents Customer's subscription service.
 - Data Format: xlsx
+---
 
   ### Data Cleaning 
  - Data Import: Imported Customer's subscription service data into my Microsoft Excel
  - Data Inspection: Reviewed data for duplicates records 
  - Data Transformation: converted data format to YYYY/MM/DD
+---
 
 ### Tool Used
 - Microsoft Excel for data cleaning and transformation 
@@ -80,7 +84,7 @@ Revenue Analysis
 | Standard | 17M | 24.97% |
 
 ![Excel Customer Subscription Chart](https://github.com/user-attachments/assets/47a3063f-97d5-42d7-a7f9-6cd4958b7d6f)
-
+---
 
 ### MySQL Analysis
 1. Total Number of customers from each Region
@@ -158,6 +162,7 @@ SELECT SUM(CASE WHEN Canceled = 'FALSE' OR Canceled = 0 THEN 1 ELSE 0 END) AS Ac
 SUM(CASE WHEN Canceled = 1 THEN 1 ELSE 0 END) AS Canceled_Subscriptions
 FROM `lita captstone customerdata`; 
 ```
+---
 
 ### Power BI Analysis
 
@@ -179,11 +184,13 @@ FROM `lita captstone customerdata`;
 *Customer Retention*
 
 - Total subscription renewals (18,612) outnumber cancellations (15,175), indicating a positive customer retention rate.
+---
 
 ### Visualizations
 
 ![Customer subscription Dashboard - Power BI](https://github.com/user-attachments/assets/2b6d5941-2082-4bd8-930a-89c2f0eecd1e)
 
+---
 
 ### Key Insights and Recommendations
 
@@ -197,6 +204,7 @@ FROM `lita captstone customerdata`;
 2. *Regional optimization*: Analyze regional trends to optimize marketing strategies and improve revenue growth.
 3. *Customer retention strategies*: Develop programs to maintain customer loyalty and reduce cancellations.
 4. *Premium and Standard subscription enhancement*: Consider enhancing features or pricing to increase adoption rates.
+---
 
 ### Conclusion
 This project provides valuable insights into customer behaviour and subscription patterns, enabling data-driven decisions to improve customer retention, acquisition, and revenue growth.
